@@ -1,4 +1,4 @@
-# 그리디언즈 - 개발자 소통 플랫폼 (준비 중)
+# <a href="https://github.com/gridtown/gridianz">그리디언즈 - 개발자 소통 플랫폼 (준비 중)</a>
 
 # 예시 이미지
 
