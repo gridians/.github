@@ -2,4 +2,4 @@
 
 # 예시 이미지
 
-![Group 907](https://user-images.githubusercontent.com/102597172/214205038-66aa02a9-84b4-49a2-95e3-606076043ecb.png)
+![Group 907 (1)](https://user-images.githubusercontent.com/102597172/214495097-ed007610-2a09-4817-9dfb-09caea3ec457.png)
