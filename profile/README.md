@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://github.com/gridtown/gridianz">그리디언즈 - 개발자 소통 플랫폼 </a></div>
+# <div align="center"><a href="https://github.com/gridtown/gridianz">그리디언즈 - 개발자 온라인 명함 플랫폼 </a></div>
 
 
 
