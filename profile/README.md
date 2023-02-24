@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://github.com/gridtown/gridianz"> 그리언즈
+# <div align="center"><a href="https://github.com/gridtown/gridianz"> 그리디언즈
 </a></div>
 
 <div align="center">
